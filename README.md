@@ -1,0 +1,2 @@
+# CNJavaScriptPractice
+Javascript basics
